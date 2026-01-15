@@ -1,0 +1,82 @@
+[
+    {
+        "content": "Acoustic Guitar: C Major Chord Strum",
+        "prompt": "A close-up tutorial shot focusing on the fretboard of an acoustic guitar. Soft lighting. A left hand cleanly presses the strings into a C Major chord shape (fingers on the 1st, 2nd, and 3rd frets). A right hand holding a pick performs a single, slow, downward strum across all strings, producing a rich, resonant major chord that rings as the metal strings visibly vibrate."
+    },
+    {
+        "content": "Piano: Legato Scale",
+        "prompt": "A top-down view of a hand positioned on a piano keyboard with a metronome ticking steadily in the background. The fingers press down on the white keys one by one in a smooth, connected motion to play a 5-note ascending scale, and each note lands exactly when the fingertip makes contact and the key bottoms out before rebounding."
+    },
+    {
+        "content": "Drum Lesson: Snare Hit",
+        "prompt": "A super slow-motion shot of a drumstick hitting a snare drum under studio lighting that highlights the texture of the drum skin. The stick strikes the exact center of the drum, creating a visible ripple on the drumhead as it snaps back, and the audio matches with a sharp snare 'crack' followed by the quick buzzing rattle of the snare wires underneath."
+    },
+    {
+        "content": "Violin: Smooth Bowing",
+        "prompt": "A side-profile close-up of a violin being played in a quiet classical practice setting. The right hand holds the bow with a proper grip and pulls it slowly across the A string in a straight line (down-bow), producing a steady sustained tone that stays smooth and clean as the horsehair visibly grips the string without scratchy noise."
+    },
+    {
+        "content": "Bass Guitar: Slap Technique",
+        "prompt": "A dynamic shot of a bass guitar body with no background music, focusing on technique. The right thumb strikes the thickest string forcefully (slap) and the index finger hooks and pops a higher string upward (pop), creating a tight percussive thump followed by a bright metallic clank that lines up with each visible string snap."
+    },
+    {
+        "content": "Ukulele: Island Strumming",
+        "prompt": "A warm, bright shot of a ukulele held against a chest with faint ocean waves in the background. The right hand performs a rhythmic down-up-down-up strumming pattern using the index finger, and each visible brush across the nylon strings produces a cheerful, high-pitched jingle in perfect sync with the wrist motion."
+    },
+    {
+        "content": "Trumpet: Valve Maintenance",
+        "prompt": "A close-up of a brass trumpet's valve casing while a narrator says, 'Check the valves.' A hand presses the three valves rapidly in a random sequence, and each press bottoms out with a crisp metallic click and springy return that matches the piston movement."
+    },
+    {
+        "content": "Cello: Vibrato Technique",
+        "prompt": "A tight focus on the fingerboard of a cello as a deep, warm note sustains. A left-hand finger presses a string against the ebony board and rocks back and forth rhythmically, and the audio wavers in pitch in sync with the visible vibrato motion while the bow continues to draw a stable tone."
+    },
+    {
+        "content": "Tambourine: Shake Roll",
+        "prompt": "A hand holds a wooden tambourine against a plain background and rotates the wrist rapidly back and forth. The metal jingles blur as they strike and rub, producing a continuous shimmering high-pitched jingle that intensifies as the shake speed increases."
+    },
+    {
+        "content": "Synthesizer: Pitch Bend",
+        "prompt": "A close-up of a synthesizer keyboard and the pitch bend wheel on the left with a sustained synth chord held down. A hand slowly pushes the pitch bend wheel upward and then releases it back to center, and the chord glides smoothly up in pitch and returns exactly with the wheel's travel and snap-back."
+    },
+    {
+        "content": "Harp: Glissando Sweep",
+        "prompt": "A dreamy, soft-focus shot of a golden harp's strings in a quiet studio. A hand sweeps across the strings from low to high in one continuous motion (glissando), and the camera shows each string briefly vibrating as the sound cascades upward in a sparkling run that follows the hand's path."
+    },
+    {
+        "content": "DJ Turnable: Vinyl Scratch",
+        "prompt": "A top-down view of a DJ turntable deck with a simple drum beat playing. A hand rests on a black vinyl record and pushes it forward then pulls it back rhythmically, and each stop-and-reverse motion produces the classic 'wiki-wiki' scratch sound exactly when the record changes direction."
+    },
+    {
+        "content": "Saxophone: Key Action",
+        "prompt": "A macro shot of the brass keys on a saxophone during a fast run. The fingers press the pearl keys in rapid sequence, and the audio line up with quick mechanical key taps as the pads visibly lift and seal over tone holes at each note change."
+    },
+    {
+        "content": "Triangle: The Perfect Ding",
+        "prompt": "A hand holds a metal triangle by a string, suspended in the air in silence. The other hand strikes the bottom horizontal bar with a metal beater, and the beater recoils immediately as the triangle frame shimmers visibly and a clear high-pitched 'ding' rings out and decays."
+    },
+    {
+        "content": "Electric Guitar: String Bend",
+        "prompt": "A zoomed-in shot of an electric guitar fretboard with distortion on. A finger frets a note and then pushes the steel string upward across the wood (bending), and the pitch rises smoothly as the string visibly stretches, then settles when the finger releases."
+    },
+    {
+        "content": "Kalimba (Thumb Piano): Plucking",
+        "prompt": "A POV shot of a wooden kalimba held in two hands in a quiet room. The two thumbs alternate plucking the metal tines downward, and each tine bends under the thumb then snaps back to blur with vibration as a soft bell-like note sounds exactly at the release."
+    },
+    {
+        "content": "Cymbal: Crash Choke",
+        "prompt": "A dynamic shot of a gold crash cymbal on a stand. A drumstick strikes the cymbal edge hard, making it wobble violently as a loud crash blooms, then a hand immediately grabs the edge to choke it, cutting the ringing sound off instantly as the cymbal's motion stops."
+    },
+    {
+        "content": "Accordion: Bellows Movement",
+        "prompt": "A medium shot of an accordion being played with a steady chord. The left arm pulls the bellows outward and then pushes them back in, and the chord audibly swells louder as the bellows open and softens as they close, synchronized with the visible 'breathing' folds."
+    },
+    {
+        "content": "Maracas: Rhythmic Shake",
+        "prompt": "A close-up of a pair of wooden maracas in two hands against a plain background with no other instruments. The hands shake the maracas forward and backward sharply in a steady rhythm, and each reversal produces a crisp sandy rattle as the beads inside lag behind and then strike the shell, creating a clear shake-shake pattern perfectly synchronized with the motion."
+    },
+    {
+        "content": "Xylophone: Mallet Rebound",
+        "prompt": "A side-angle view of wooden xylophone bars. A hard plastic mallet strikes a single bar, producing a bright woody 'plonk' exactly at impact, and the mallet bounces back immediately instead of sticking so the bar can keep vibrating as the note rings."
+    }
+]
